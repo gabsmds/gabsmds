@@ -1,10 +1,14 @@
 ## Olá, me chamo Gabriely Mendes👋
 
-Atualmente estou no segundo ano do ensino médio e cursando informática no IFMA Campus Açailândia.
+Atualmente estou no segundo ano do ensino médio e cursando informática no IFMA Campus Açailândia. Tenho 16 anos e gosto de aprender coisas que agregam no meu conhecimento. Atualmento moro em Açailândia-MA.
+
 <br><br/>
-Gosto de aprender coisas que agregam no meu conhecimento.
+ ## Experiência profissional
+ Até o momento não possuo muitas experiências profissionais, mas espero adquirir com o tempo. 
 
 <br><br>
+
+## Habilidades
 Sei o básico de algumas ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -16,9 +20,13 @@ Sei o básico de algumas ferramentas:
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
+Ao longo do tempo no IFMA, utilizei essas ferramentas, tanto em aulas das disciplinas do curso quanto em projetos de extensão, como o React Native, que aprendi o básico em um projeto de extensão.
+
+</div><br/>
 <img align="center" alt="JavaScript" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabsmds&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
 <br><br/>
-Meu instagram
+Contato
 <br><br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabriiely.m/profilecard/?igsh=Nm05NzcyM3doZTd0)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielym@acad.ifma.edu.br)
