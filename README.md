@@ -1,6 +1,8 @@
 ## Olá, me chamo Gabriely Mendes👋
 
 Atualmente estou no segundo ano do ensino médio e cursando informática no IFMA Campus Açailândia.
+<br><br/>
+Gosto de aprender coisas que agregam no meu conhecimento.
 
 <br><br>
 Sei o básico de algumas ferramentas:
@@ -16,5 +18,7 @@ Sei o básico de algumas ferramentas:
 
 <img align="center" alt="JavaScript" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabsmds&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
+<br><br/>
+Meu instagram
 <br><br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabriiely.m/profilecard/?igsh=Nm05NzcyM3doZTd0)
